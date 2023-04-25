@@ -19,5 +19,6 @@ Section4. 様々なチャットボットの構築
 ### ChatGPT
 [AI+ by ITmedia NEWS](https://www.itmedia.co.jp/news/subtop/aiplus/)  
 [ChatGPTとは？始め方や使い方、料金も紹介](https://www.gizmodo.jp/2023/01/chat-gpt-openai-ai-finance-ai-everything-we-know.html)  
+[GPTって何の略？](https://www.gizmodo.jp/2023/04/chatgpt-gtp.html)  
 [OpenAIのCEO、「巨大AIモデルを用いる時代は終った」と語る](https://wired.jp/article/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/)  
 
