@@ -4,7 +4,8 @@ Section1. ChatGPT APIの概要
 → ChatGPTの概要や、開発環境について学びます。
 
 Section2. チャットボットの構築  
-→ ChatGPT APIを使い、実際にチャットボットを構築します。
+→ ChatGPT APIを使い、実際にチャットボットを構築します。  
+[ngrok](https://ngrok.com/)　[Streamlit](https://streamlit.io/)
 
 Section3. チャットボットの公開  
 → 構築したチャットボットをWeb上で公開する方法を学びます。
