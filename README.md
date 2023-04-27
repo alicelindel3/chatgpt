@@ -13,8 +13,8 @@ Section4. 様々なチャットボットの構築
 → 前提となるプロンプトを設定し、様々な種類のチャットボットを構築します。
 ## 参考文献
 ### AI
+[AI新聞](https://community.exawizards.com/aishinbun/)  
 [AI+ by ITmedia NEWS](https://www.itmedia.co.jp/news/subtop/aiplus/)  
-[湯川鶴章のテクノロジーフィクション](https://www.newsweekjapan.jp/yukawa/)  
 [25人のAIが一緒に暮らしたら、自我は芽生えるか？](https://www.itmedia.co.jp/news/articles/2304/13/news072.html)  
 ### Bard
 [Google Bardとは？日本での一般公開や使い方について解説！](https://sogyotecho.jp/google-bard/)  
