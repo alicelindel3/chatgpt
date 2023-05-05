@@ -1,5 +1,4 @@
 # ChatGPT API【GPT-3.5/GPT-4】
-## 講座内容
 Section1. ChatGPT APIの概要  
 → ChatGPTの概要や、開発環境について学びます。
 
